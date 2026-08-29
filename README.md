@@ -14,7 +14,7 @@ Full-stack developer and AI systems engineer. Building tools that solve real pro
 
 ## About
 
-Computer Engineering student with a focus on cybersecurity. I'm currently building AI-powered internal tools at Woven Talent and serving as Technical Advisor for ACM Student Chapter at DBIT. When I'm not working on that, you'll find me freelancing on WordPress projects or experimenting with cloud architecture and edge computing systems.
+Computer Engineering student with a focus on cybersecurity. I'm currently building AI-powered internal tools at Woven Talent and serving as Technical Advisor for ACM Student Chapter at DBIT. You will find me experimenting with cloud architecture and edge computing systems.
 
 ---
 
@@ -63,33 +63,6 @@ The official site for campus's largest student chapter. Won the Outstanding Webs
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Contribution Streak](https://streak-stats.demolab.com?user=Joshua-Almeida&theme=dark&hide_border=true&background=0D0D0D&ring=E8B923&fire=E8B923&currStreakLabel=E8B923&sideLabels=CCCCCC&dates=CCCCCC)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joshua-Almeida&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=E8B923&icon_color=E8B923&text_color=CCCCCC&count_private=true)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Almeida&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=E8B923&text_color=CCCCCC)
-
-</div>
-
----
-
-<div align="center">
 
 Get in touch: [joshuaalmeida003@gmail.com](mailto:joshuaalmeida003@gmail.com)
 
