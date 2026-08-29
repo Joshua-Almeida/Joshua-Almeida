@@ -44,15 +44,26 @@ The official site for campus's largest student chapter. Won the Outstanding Webs
 
 ## Tech Stack
 
-**Languages:** Python, TypeScript, JavaScript, C++, SQL  
-**Frontend:** React, HTML5, CSS3, TailwindCSS  
-**Backend:** FastAPI, Node.js, SQLAlchemy  
-**Cloud:** AWS, Azure, PostgreSQL, Azure SQL  
-**Tools:** Docker, Git, Unity, ARCore
+<div align="center">
+
+![Python](https://skillicons.dev/icons?i=python)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![C++](https://skillicons.dev/icons?i=cpp)
+![React](https://skillicons.dev/icons?i=react)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Azure](https://skillicons.dev/icons?i=azure)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+
+</div>
 
 ---
 
-## Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -60,9 +71,17 @@ The official site for campus's largest student chapter. Won the Outstanding Webs
 
 </div>
 
+<br/>
+
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joshua-Almeida&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=E8B923&icon_color=E8B923&text_color=CCCCCC&count_private=true)
+
+</div>
+
+<br/>
+
+<div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Almeida&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=E8B923&text_color=CCCCCC)
 
