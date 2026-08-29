@@ -18,13 +18,16 @@ Computer Engineering student with a focus on cybersecurity. I'm currently buildi
 
 ---
 
-## Current Work
+<p align="center">
+  <strong>Woven Talent</strong><br/>
+  Internal AI tools · Central Team
+</p>
 
-**Woven Talent** — AI-powered internal tools for talent management  
-**ACM DBIT** — Technical Advisor, previously Technical Head  
-**Freelance** — Web development and full-stack consulting  
+<p align="center">
+  Technical Advisor · <strong>ACM DBIT</strong><br/>
+  previously Technical Head
+</p>
 
----
 
 ## Projects
 
@@ -61,9 +64,4 @@ The official site for campus's largest student chapter. Won the Outstanding Webs
 
 </div>
 
----
 
-
-Get in touch: [joshuaalmeida003@gmail.com](mailto:joshuaalmeida003@gmail.com)
-
-</div>
